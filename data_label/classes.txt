@@ -1,5 +1,0 @@
-face_mask
-scarf
-face
-no_define
-mask
